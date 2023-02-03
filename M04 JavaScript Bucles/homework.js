@@ -30,7 +30,7 @@ function conection(status){
    // Tu código:
    if(status===1) return "Online";
    else if(status===2) return "Away";
-   Else return "Offline";
+   else return "Offline";
    //switch( status )
    //   case 1:
    //    return "online";
